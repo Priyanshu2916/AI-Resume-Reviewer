@@ -197,12 +197,6 @@ Suggestions:
 * API keys should be stored in environment variables such as `.env`.
 * Uploaded resumes should be handled securely.
 
-## 👨‍💻 Author
-
-**Priyanshu**
-
-B.Tech Computer Science & Engineering
-
 ## ⭐ Project Purpose
 
 This project was developed as an academic and portfolio project to demonstrate the practical use of **Artificial Intelligence, NLP, Python, Flask, and Web Development** in a real-world application.
